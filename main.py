@@ -1,4 +1,5 @@
 # Введем наименования игроков и списки для учета их ходов
+
 first_player_name = 'Крестик'
 first_player_steps = []
 second_player_name = 'Нолик'
